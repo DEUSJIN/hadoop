@@ -1,4 +1,4 @@
-package pers.jin.mapreduce.temperature;
+package pers.jin.mapreduce.exper.temperature;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
@@ -14,8 +14,6 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 /**
  * @Author: DEUSJIN

@@ -1,4 +1,4 @@
-package pers.jin.mapreduce.temperature;
+package pers.jin.mapreduce.exper.temperature;
 
 import org.apache.hadoop.io.WritableComparable;
 
